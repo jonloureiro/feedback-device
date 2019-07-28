@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jonloureiro/feedback-device-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jonloureiro/feedback-device-frontend.git
