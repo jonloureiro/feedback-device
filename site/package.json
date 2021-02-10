@@ -1,0 +1,18 @@
+{
+  "name": "feedback-device-site",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "sanitize.css": "^12.0.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
